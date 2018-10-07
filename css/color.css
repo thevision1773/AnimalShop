@@ -1,0 +1,64 @@
+a:hover,
+a:focus,
+a:active,
+.dropdown-content li > a, .dropdown-content li > span,
+.activity strong,
+.notification .tabs li.tab a,
+.fc-toolbar h2,
+.input-field label.active,
+div.jqi .jqibuttons button.jqidefaultbutton,
+.input-field label.active,
+.readmore{
+	color:#2b303b;
+}
+.topbar,
+.tabs .indicator,
+.fc-toolbar button,
+.fc-day-header,
+fc-content,
+.fc-day-grid-event,
+a.fc-more,
+.chat-title,
+.message-box .message-submit,
+.contact-img > label:before,
+.add-answer button,.add-answer button:hover,.add-answer button:focus,
+.status-opts > a,.status-opts > a:hover,.status-opts > a:focus,
+.social-share > a,
+.profile-widget-head,
+.mail-sidebar a.btn, .mail-sidebar a.btn:hover, .mail-sidebar a.btn:focus,
+.mail-list li > i,
+.login-form-box:before,
+.file-field .btn, .file-field .btn-large,
+.switch label input[type="checkbox"]:checked + .lever:after,
+.filled-in[type="checkbox"]:checked + label:after,
+[type="radio"]:checked + label:after, .with-gap[type="radio"]:checked + label:after,
+.wizard > .steps .current a, .wizard > .steps .current a:hover, .wizard > .steps .current a:active,
+.slick-dots li button:before,
+.zoomer,
+div.jqi .jqiclose,
+.sidemenu.dark,
+.meta:before{
+	background-color:#2b303b;
+}
+
+
+.admin > img,
+input:focus:not([type]):not([readonly]), input[type="text"]:focus:not([readonly]), input[type="password"]:focus:not([readonly]), input[type="email"]:focus:not([readonly]), input[type="url"]:focus:not([readonly]), input[type="time"]:focus:not([readonly]), input[type="date"]:focus:not([readonly]), input[type="datetime"]:focus:not([readonly]), input[type="datetime-local"]:focus:not([readonly]), input[type="tel"]:focus:not([readonly]), input[type="number"]:focus:not([readonly]), input[type="search"]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]),
+.filled-in[type="checkbox"]:checked + label:after,
+[type="radio"]:checked + label:after, .with-gap[type="radio"]:checked + label:before, .with-gap[type="radio"]:checked + label:after{
+	border-color:#2b303b;
+}
+
+.social-share > a:before{
+	border-top-color:#2b303b;
+}
+
+
+
+[type="checkbox"]:checked + label:before{
+	border-color:transparent #2b303b #2b303b transparent
+}
+
+input:focus:not([type]):not([readonly]), input[type="text"]:focus:not([readonly]), input[type="password"]:focus:not([readonly]), input[type="email"]:focus:not([readonly]), input[type="url"]:focus:not([readonly]), input[type="time"]:focus:not([readonly]), input[type="date"]:focus:not([readonly]), input[type="datetime"]:focus:not([readonly]), input[type="datetime-local"]:focus:not([readonly]), input[type="tel"]:focus:not([readonly]), input[type="number"]:focus:not([readonly]), input[type="search"]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]){
+	box-shadow:0 1px 0 0 #2b303b;
+}

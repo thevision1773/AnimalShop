@@ -1,0 +1,113 @@
+@media (max-width:1200px){	
+.masonary > div.col{width:50%!important}
+.masonary > div.col.s12{width:100%!important}
+}
+
+
+
+@media (max-width:980px){
+.content-area{margin-left:0;width:100%;z-index:1}
+.sidemenu{z-index:2;left:-255px}
+body.active .sidemenu{left:0}
+.logo{width:200px}
+.sidemenu-btn{margin-left:10px}
+.dropdown{margin-left:20px}
+.activity{margin-left:20px}
+.topbar-links{margin-right:0}
+.launcher{margin-right:10px}
+.notification{margin-right:15px}
+#chartdiv{min-width:700px}
+.projects-table{overflow:scroll} 
+.projects-table table{min-width:700px }
+.social-activities > ul > li{width:50%}
+.build-wrap{padding:10px}
+.stage-wrap{width:100%}
+.cb-wrap{width:100%;position:relative!important}
+.dynamic-gallery table.table{min-width:800px}
+.dynamic-gallery{float:left;overflow:auto;width:100%}
+.revive-blog .row > div.col.s4{float:left;width:50%}
+}
+
+
+@media (max-width:768px){
+.logo{padding:3px 30px;text-align:left;width:calc(100% - 170px)}
+.sidemenu-btn{margin:0;width:35px}
+.dropdown{width:100px}
+.activity{background:rgba(0, 0, 0, 0.4);margin:10px 0 0;padding:16px 30px 11px;text-align:center;width:calc(100% - 90px)}
+.activity h4{margin:0;min-height:32px}
+.topbar-links{background:rgba(0, 0, 0, 0.4);margin:10px 0 0;padding:16px 0;width:90px}
+.topbar{padding:5px 0 0}
+.sidemenu{left:-255px;padding:30px 0 0;z-index:10}
+.content-area{margin-top:110px}
+.breadcrumb-bar{padding:30px 20px 60px}
+.page-title{max-width:unset;text-align:center;width:100%}
+.page-title h1{display:block}
+form.search-admin{margin:10px 20% 0;width:60%}
+.masonary > div.col{width:100%!important}
+.widgets-wrapper{padding:30px 10px}
+.ticket-text{display:unset;float:left;padding:20px 0 0;width:100%}
+.ticket-text > strong{margin:0 0 10px;max-width:unset;width:100%}
+.ticket-text > strong span{float:right}
+.ticket.answer{padding:20px}
+.support-tickets{padding:0}
+ul.admin-breadcrumb{right:20px} 
+.status-opts a.btn{margin-top:20px;width:100%}
+.timeline{padding:0}
+.user-timeline{float:left;margin:0 0 20px;position:relative}
+.timeline-content{padding:10px}
+.timeline-head > h3 > span{float:left;margin:0;width:100%}
+.timeline-head > h3 > i{display:table }
+.admin-follow{padding:40px 10px 30px}
+#source-table{min-width:330px}
+.map-vector{width:100% !important}
+.map-table{padding:0;width:100%}
+.input-field.col.s6{width:100%}
+.wizard > .content > .body{padding:20px 10px}
+.wizard > .steps > ul > li{width:100%}
+.hover-text{padding:10px 20px}
+.mail-sidebar{width:100%}
+.mail-content{width:100%}
+.mail-options{padding:20px 10px}
+.select-all{margin:0;width:100%}
+.mail-options ul{margin:0;padding:10px 0;width:100%}
+.input-field.more-opts{margin:0 0 20px;width:100%}
+.mail-pagination{width:100%}
+.mail-list label{float:left;height:auto;white-space:normal;width:100%;word-wrap:normal}
+.mail-list label strong{float:left;margin:0;width:100%}
+.sender-info{display:unset;float:left;padding:20px 0 0;width:100%}
+.message-part{padding:20px;width:100%}
+.attached-files{width:100%}
+.login-form-box{padding:40px 20px 60px;width:90%}
+.error-page{background-position:0 130px;background-size:100% auto;padding:70px 0}
+.error-page h1{font-size:120px;margin:0 0 20px}
+.error-page strong{font-size:24px}
+.error-page p{margin:0 0 40px;width:100%}
+div.jqi{margin:0 !important;min-width:80%;
+    -webkit-transform:translateX(-50%);
+    -moz-transform:translateX(-50%);
+    -ms-transform:translateX(-50%);
+    -o-transform:translateX(-50%);
+    transform:translateX(-50%);
+}
+.modal .col.s3{width:100%}
+.author-inner > img{display:unset;width:100%}
+.author-detail{display:unset;float:left;padding:20px;text-align:center;width:100%}
+.author-social{display:unset; float:left; padding:10px 20px 30px; width:100%;}
+.comments-section ul ul{padding:0}
+.avatar{display:unset}
+.comment-text {display:unset; float:left; padding:30px 0 0; width:100%}
+.comments-section > ul {padding:20px} 
+.comment-title {margin:0}
+}
+
+@media (max-width:480px){
+form.search-admin{width:100%;margin:10px 0 0}
+.activity{overflow:hidden;padding-left:10px}
+.cd-words-wrapper{width:100%}
+.activity h4{font-size:10px;margin:0;min-height:32px}
+.cd-words-wrapper span{display:table;font-size:10px;margin:0 0 3px;padding:1px 5px}
+.sidemenu{height:calc(100% - 51px);left:-100%;margin-top:51px;width:100%}
+ul.admin-breadcrumb{right:20px}
+.status-opts a.btn{margin-top:20px}
+.revive-blog .row > div.col.s4{float:left;width:100%}
+}
